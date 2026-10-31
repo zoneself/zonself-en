@@ -67,7 +67,14 @@ Engine Sealing System Rubber Parts for Automotive Oil & Heat Resistance
 
 ## Target Sales Area
 
-Asia del Este, Europa, América del Sur, Oriente Medio
+Our products are exported to aftermarket customers in more than 40 countries and regions, with key markets including:
+
+Middle East:​ UAE, Saudi Arabia, Qatar, Iraq, Jordan
+South America:​ Brazil, Chile, Peru, Colombia, Ecuador
+Southeast Asia:​ Indonesia, Thailand, Vietnam, Philippines
+Russia & CIS:​ Russia, Kazakhstan, Uzbekistan
+Africa:​ Nigeria, Kenya, Egypt, Morocco
+Central America & Caribbean:​ Panama (Colón Free Zone), Dominican Republic, Costa Rica
 
 ## Enterprise or Product Advantages
 

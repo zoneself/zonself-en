@@ -59,12 +59,12 @@
             "placeholder_en": "e.g. CNC machines, laser cutters",
             "value": "CV Joint Boots,Steering Rack Boots,Shock Absorber Boots,Stabilizer Bar Bushings,Valve Cover Gasket,O-Rings & Rubber Sealing Rings",
             "images": [
+                59682,
                 59677,
+                59681,
                 59678,
                 59679,
-                59680,
-                59681,
-                59682
+                59680
             ],
             "image_captions": {
                 "59677": "CV Joint Boots",
@@ -83,10 +83,10 @@
             "placeholder_en": "e.g. Automotive, electronics, medical",
             "value": "Steering System Rubber Parts for Automotive Sealing & Protection\nAutomotive Suspension System Rubber Parts & Components\nDrivetrain System Rubber Parts for Power Transmission & Protection\nEngine Sealing System Rubber Parts for Automotive Oil & Heat Resistance\n\n",
             "images": [
-                59675,
-                59673,
                 59674,
-                59672
+                59672,
+                59673,
+                59675
             ],
             "image_captions": {
                 "59672": "Steering System",
@@ -153,7 +153,7 @@
             "label_en": "Target Sales Area",
             "placeholder_zh": "如：国内华南、华东；出口东南亚、欧洲",
             "placeholder_en": "e.g. South\/East China; SE Asia, Europe",
-            "value": "Asia del Este, Europa, América del Sur, Oriente Medio\n",
+            "value": "Our products are exported to aftermarket customers in more than 40 countries and regions, with key markets including:\n\nMiddle East:​ UAE, Saudi Arabia, Qatar, Iraq, Jordan\nSouth America:​ Brazil, Chile, Peru, Colombia, Ecuador\nSoutheast Asia:​ Indonesia, Thailand, Vietnam, Philippines\nRussia & CIS:​ Russia, Kazakhstan, Uzbekistan\nAfrica:​ Nigeria, Kenya, Egypt, Morocco\nCentral America & Caribbean:​ Panama (Colón Free Zone), Dominican Republic, Costa Rica\n",
             "images": [],
             "image_captions": []
         },
@@ -186,8 +186,8 @@
             "value": "Automotive Rubber Parts Manufacturer are built to the highest international standards, ensuring safety, quality, and reliability for commercial and industrial use. Our products hold key certifications including CE Marking (European conformity), ISO 9001 (quality management), FDA-compliant materials, and RoHS compliance. These certifications demonstrate our commitment to delivering durable, food-safe, and environmentally responsible potato peeling solutions that meet global regulatory requirements.",
             "images": [
                 59691,
-                59689,
-                59690
+                59690,
+                59689
             ],
             "image_captions": []
         },
@@ -292,9 +292,7 @@
             "value": "+86 150 7595 6365",
             "placeholder_zh": "",
             "placeholder_en": "",
-            "images": [
-                59694
-            ],
+            "images": [],
             "image_captions": []
         }
     ],
@@ -386,7 +384,32 @@
             "children": []
         }
     ],
-    "products": [],
+    "products": [
+        {
+            "title": "CV Joint Boot for Toyota|OEM 43448-12040\/04438-12410\/04438-12161\/FB2117-GXCVJB0001",
+            "content": "<p dir=\"auto\">This product GHCVJB0001 <a href=\"https:\/\/guanghuaautoparts.com\/tags\/cv-joint-boots\/\">CV Joint Boots <\/a>provides the following OEM part numbers: 43448-12040.<\/p>\n<p dir=\"auto\"><img class=\"aligncenter size-medium\" src=\"https:\/\/guanghuaautoparts.com\/media\/posts\/121\/GHCVJB0001-CV-Joint-Boot-for-Toyota-OEM-43448-12040-Reliable-Manufacturer-2.png\" width=\"900\" height=\"900\" \/><\/p>\n\n<table class=\"woocommerce-product-attributes shop_attributes\" aria-label=\"Product Details\">\n<tbody>\n<tr class=\"woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_applicable-vehicle-models\">\n<th class=\"woocommerce-product-attributes-item__label\" scope=\"row\">Applicable vehicle models<\/th>\n<td class=\"woocommerce-product-attributes-item__value\">Toyota<\/td>\n<\/tr>\n<tr class=\"woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_compatibie-models\">\n<th class=\"woocommerce-product-attributes-item__label\" scope=\"row\">Compatibie Models<\/th>\n<td class=\"woocommerce-product-attributes-item__value\">RAV 4 I (SXA1_)\/COROLLA Compact (_E10_)\/COROLLA (_E9_)\/COROLLA Compact (_E9_)\/COROLLA Liftback (_E8_)\/COROLLA Liftback (_E10_)\/COROLLA Liftback (_E9_)\/STARLET (EP91)\/COROLLA Wagon (__E11_)\/PASEO Convertible (EL54)\/RAV 4 I Cabrio (SXA1_)\/COROLLA (_E10_)\/CELICA (AT16_, ST16_)\/COROLLA Compact (_E11_)<\/td>\n<\/tr>\n<tr class=\"woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_oem-code\">\n<th class=\"woocommerce-product-attributes-item__label\" scope=\"row\">OEM Code<\/th>\n<td class=\"woocommerce-product-attributes-item__value\">43448-12040\/43448-12120\/04438-12090\/04438-12070\/04438-12410\/04438-12161\/ FB2117<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<p dir=\"auto\">This is a premium quality CV joint boot manufactured from high-grade rubber material. It delivers superior wear resistance, excellent anti-aging performance, oil resistance, and outstanding sealing capabilities.<\/p>\n<p dir=\"auto\">The CV joint boot is designed for multiple Toyota models. It effectively protects the constant velocity joint from dust, sand, water, and debris intrusion, prevents grease leakage and premature wear of the CV joint, significantly extends the service life of the drivetrain system, and improves driving safety and stability. The dimensions match the original factory specifications perfectly and the product passes strict quality inspections, making it a reliable direct replacement for maintenance and repair.<\/p>\n<p dir=\"auto\">We are a professional automotive rubber parts manufacturer, offering professional OEM &amp; ODM services. Customization of specifications, rubber hardness, colors, and packaging is available according to client requirements. Bulk production and private label branding are fully supported. Welcome B2B wholesale customers for long-term cooperation and inquiries.<\/p>",
+            "category_l1": "c1793419053555_762",
+            "category_l2": "",
+            "category_l1_label": "CV Joint Boots",
+            "category_l2_label": "",
+            "category_labels": [
+                "CV Joint Boots"
+            ],
+            "recommend": false
+        },
+        {
+            "title": "CV Joint Boot for Toyota \/ OEM:43447-17041\/04438-12140\/04438-32172\/04438-12201\/04438-20110-GXCVJB0002 ",
+            "content": "<p><img class=\"aligncenter size-medium\" src=\"https:\/\/guanghuaautoparts.com\/media\/posts\/76\/CV-Joint-Boot-GHCVJB0002-Leak-proof-NBR-Viton-Driveshaft-Boots-for-Toyota-Corolla-RAV4-2.png\" width=\"1000\" height=\"1000\" \/><\/p>\n<p dir=\"auto\">This product GHCVJB0002 CV Joint Boot provides the following OEM part numbers: <strong>43447-17041, 04438-12140, 04438-32172, 04438-12201, 04438-20110 <\/strong>.<\/p>\n<table class=\"woocommerce-product-attributes shop_attributes\" aria-label=\"Product Details\">\n<tbody>\n<tr class=\"woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_applicable-vehicle-models\">\n<th class=\"woocommerce-product-attributes-item__label\" scope=\"row\">Applicable vehicle models<\/th>\n<td class=\"woocommerce-product-attributes-item__value\">\n<p>Toyota<\/p>\n<\/td>\n<\/tr>\n<tr class=\"woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_compatibie-models\">\n<th class=\"woocommerce-product-attributes-item__label\" scope=\"row\">Compatibie Models<\/th>\n<td class=\"woocommerce-product-attributes-item__value\">\n<p>ToyotaRAV 4 I (SXA1_)<br \/>ToyotaCOROLLA Compact (_E10_)<br \/>ToyotaCOROLLA (_E9_)<br \/>ToyotaCOROLLA Liftback (_E10_)<br \/>ToyotaCOROLLA Station Wagon (_E9_)<\/p>\n<\/td>\n<\/tr>\n<tr class=\"woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_oem-code-1\">\n<th class=\"woocommerce-product-attributes-item__label\" scope=\"row\">OEM Code 1<\/th>\n<td class=\"woocommerce-product-attributes-item__value\">\n<p><strong>43447-17041<\/strong><\/p>\n<\/td>\n<\/tr>\n<tr class=\"woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_oem-code-2\">\n<th class=\"woocommerce-product-attributes-item__label\" scope=\"row\">OEM Code 2<\/th>\n<td class=\"woocommerce-product-attributes-item__value\">\n<p><strong>04438-12140<\/strong><\/p>\n<\/td>\n<\/tr>\n<tr class=\"woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_oem-code-3\">\n<th class=\"woocommerce-product-attributes-item__label\" scope=\"row\">OEM Code 3<\/th>\n<td class=\"woocommerce-product-attributes-item__value\">\n<p><strong>04438-32172<\/strong><\/p>\n<\/td>\n<\/tr>\n<tr class=\"woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_oem-code-4\">\n<th class=\"woocommerce-product-attributes-item__label\" scope=\"row\">OEM Code 4<\/th>\n<td class=\"woocommerce-product-attributes-item__value\">\n<p><strong>04438-12201<\/strong><\/p>\n<\/td>\n<\/tr>\n<tr class=\"woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_oem-code-5\">\n<th class=\"woocommerce-product-attributes-item__label\" scope=\"row\">OEM Code 5<\/th>\n<td class=\"woocommerce-product-attributes-item__value\">\n<p><strong>04438-20110<\/strong><\/p>\n<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<p dir=\"auto\">This is a premium quality CV joint boot manufactured from high-grade rubber material. It delivers superior wear resistance, excellent anti-aging performance, and outstanding dust-proof and sealing capabilities. The tough and flexible design withstands extreme road conditions and high-speed rotation stress while maintaining a tight seal, effectively preventing dust, mud, water, and contaminants from entering the CV joint assembly and stopping grease leakage or joint damage.<\/p>\n<p dir=\"auto\">The CV Joint Boot is designed for Toyota RAV 4 I (SXA1_), Toyota COROLLA Compact ( <em>E10 <\/em>), Toyota COROLLA ( <em>E9 <\/em>), Toyota COROLLA Liftback ( <em>E10 <\/em>), Toyota COROLLA Station Wagon ( <em>E9 <\/em>) and other compatible models. It significantly extends the service life of the CV joint, reduces noise and vibration, and improves driving smoothness and safety. The dimensions match the original factory specifications perfectly and the product passes strict quality inspections, making it a reliable direct replacement for maintenance and repair, especially suitable for daily commuting and various road conditions.<\/p>\n<p dir=\"auto\">We are a professional automotive rubber parts manufacturer, offering professional OEM &amp; ODM services. Customization of specifications, rubber hardness, colors, and packaging is available according to client requirements. Bulk production and private label branding are fully supported. Welcome B2B wholesale customers for long-term cooperation and inquiries.<\/p>",
+            "category_l1": "c1793419053555_762",
+            "category_l2": "",
+            "category_l1_label": "CV Joint Boots",
+            "category_l2_label": "",
+            "category_labels": [
+                "CV Joint Boots"
+            ],
+            "recommend": false
+        }
+    ],
     "faqs": [
         {
             "title": "What automotive rubber parts do you manufacture?",
@@ -451,7 +474,7 @@
         "custom_domain": "",
         "cross_lang_link": 0
     },
-    "updated_at": "2026-10-31 12:01:20",
+    "updated_at": "2026-10-31 13:08:44",
     "_cross_lang": {
         "enabled": false,
         "alt_url": "",
