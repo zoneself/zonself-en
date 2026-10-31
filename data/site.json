@@ -1,0 +1,341 @@
+{
+    "version": "en",
+    "about": [
+        {
+            "key": "company_name",
+            "label_zh": "企业名称",
+            "label_en": "Company Name",
+            "placeholder_zh": "如：广州市***自动化设备有限公司",
+            "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
+            "value": "Hebei Xingtai GuXiao Rubber Products Co., Ltd.",
+            "images": [
+                59658
+            ],
+            "image_captions": {
+                "59658": "Hebei Xingtai GuXiao Rubber Products Co., Ltd."
+            }
+        },
+        {
+            "key": "site_intro",
+            "label_zh": "本站简介",
+            "label_en": "Introduction of this site",
+            "placeholder_zh": "向你的客户简单介绍本站的用途，比如是你公司的官网或只是一个品牌知识库",
+            "placeholder_en": "Provide your clients with a brief overview of the site’s purpose—for instance, whether it serves as your company’s official website or simply as a brand knowledge base",
+            "value": "Xingtai GuXiao Rubber Products Co., Ltd. is a professional automotive rubber parts manufacturer , specializing in the production of high-quality rubber components for steering systems, suspension systems, drivetrain systems, engine sealing systems, and hydraulic applications .\n\nLocated in Tiankou Town, Renxian County, Xingtai City, Hebei Province, China, our factory focuses on precision manufacturing of critical rubber parts such as CV Joint Boots, Driveshaft Boots, Steering Rack Boots, Shock Absorber Boots, Stabilizer Bar Bushings, Rubber O-Rings, and Valve Cover Gaskets .\n\nWith in-depth experience in OEM & ODM custom rubber parts manufacturing , we provide both standard automotive rubber components and fully customized solutions based on drawings, samples, or application requirements.\n\nOur products are widely used for oil leak prevention, dust protection, sealing performance enhancement, and NVH reduction , helping improve vehicle reliability and service life under harsh operating conditions."
+        },
+        {
+            "key": "company_video",
+            "label_zh": "企业宣传片",
+            "label_en": "Company Video",
+            "placeholder_zh": "给出你企业宣传片的链接（比如抖音或B站的视频链接）",
+            "placeholder_en": "Provide your company video link(uploaded to YouTube)",
+            "value": "https:\/\/www.youtube.com\/watch?v=h3KrbrLBZpg"
+        },
+        {
+            "key": "location",
+            "label_zh": "所在国家、省份、城市",
+            "label_en": "City\/Province\/Country",
+            "placeholder_zh": "如：中国广东省广州市",
+            "placeholder_en": "e.g. Guangzhou\/Guangdong\/China",
+            "value": "Xingtai\/Hebei\/China",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "brand_name",
+            "label_zh": "品牌名称",
+            "label_en": "Brand Name",
+            "placeholder_zh": "如：雄鹰\/Eagle（建议多介绍下品牌）",
+            "placeholder_en": "e.g. Eagle（Introduce you brand more）",
+            "value": "GuXiao",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "major_products",
+            "label_zh": "主要产品",
+            "label_en": "Major Products",
+            "placeholder_zh": "如：数控CNC设备、激光切割机、激光焊接机",
+            "placeholder_en": "e.g. CNC machines, laser cutters",
+            "value": "CV Joint Boots,Steering Rack Boots,Shock Absorber Boots,Stabilizer Bar Bushings,Valve Cover Gasket,O-Rings & Rubber Sealing Rings",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "applications",
+            "label_zh": "产品应用领域",
+            "label_en": "Applications",
+            "placeholder_zh": "如：汽车零部件、消费电子、医疗器械",
+            "placeholder_en": "e.g. Automotive, electronics, medical",
+            "value": "",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "year_established",
+            "label_zh": "成立时间",
+            "label_en": "Year Established",
+            "placeholder_zh": "如：2001年（可写具体日期）",
+            "placeholder_en": "e.g. 2001",
+            "value": "2013",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "company_history",
+            "label_zh": "发展历程",
+            "label_en": "Company History",
+            "placeholder_zh": "如：2001年成立专注CNC…",
+            "placeholder_en": "e.g. Founded in 2001 focusing on CNC…",
+            "value": "",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "employees",
+            "label_zh": "人数",
+            "label_en": "Number of employees",
+            "placeholder_zh": "如：截至2026年8月，员工159人",
+            "placeholder_en": "e.g. 159 employees as of 2026",
+            "value": "",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "site_area",
+            "label_zh": "占地面积",
+            "label_en": "Site Area",
+            "placeholder_zh": "如：3200平方米厂房+290平方米办公",
+            "placeholder_en": "e.g. 3200㎡ factory + 290㎡ office",
+            "value": "",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "annual_turnover",
+            "label_zh": "年营业额",
+            "label_en": "Annual Turnover",
+            "placeholder_zh": "如：2025年约1.3亿元人民币",
+            "placeholder_en": "e.g. ~130M RMB in 2025",
+            "value": "",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "sales_area",
+            "label_zh": "销售区域",
+            "label_en": "Target Sales Area",
+            "placeholder_zh": "如：国内华南、华东；出口东南亚、欧洲",
+            "placeholder_en": "e.g. South\/East China; SE Asia, Europe",
+            "value": "",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "advantages",
+            "label_zh": "企业或产品优势",
+            "label_en": "Enterprise or Product Advantages",
+            "placeholder_zh": "如：深耕行业10年，核心部件自研",
+            "placeholder_en": "e.g. 10 years focus, in-house core parts",
+            "value": "",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "founder",
+            "label_zh": "创始人简介",
+            "label_en": "Founder's Profile",
+            "placeholder_zh": "如：张三，工程师背景…",
+            "placeholder_en": "e.g. Founder background…",
+            "value": "",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "certifications",
+            "label_zh": "资质证书名称",
+            "label_en": "Certifications",
+            "placeholder_zh": "如：ISO9001 \/ FDA \/ ROHS",
+            "placeholder_en": "e.g. ISO9001 \/ FDA \/ ROHS",
+            "value": "",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "business_reg",
+            "label_zh": "工商注册信息",
+            "label_en": "Business Registration Information",
+            "placeholder_zh": "如：可填企查查等链接",
+            "placeholder_en": "e.g. registration link",
+            "value": "",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "additional",
+            "label_zh": "其他补充介绍",
+            "label_en": "Additional Information",
+            "placeholder_zh": "其他想让客户或AI知道的信息",
+            "placeholder_en": "Other information for customers \/ AI",
+            "value": "",
+            "images": [],
+            "image_captions": []
+        }
+    ],
+    "contact": [
+        {
+            "label_zh": "官网网址",
+            "label_en": "Website",
+            "value": "",
+            "placeholder_zh": "https:\/\/www.example.com（有官网请填写）",
+            "placeholder_en": "https:\/\/www.example.com",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "label_zh": "联系人",
+            "label_en": "Contact Person",
+            "value": "",
+            "placeholder_zh": "如：张经理",
+            "placeholder_en": "e.g. Mr. Zhang",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "label_zh": "地址",
+            "label_en": "Address",
+            "value": "",
+            "placeholder_zh": "详细地址",
+            "placeholder_en": "Full address",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "label_zh": "电话",
+            "label_en": "Telephone",
+            "value": "",
+            "placeholder_zh": "如：020-8069****",
+            "placeholder_en": "e.g. +86-20-****",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "label_zh": "手机",
+            "label_en": "Mobile Phone",
+            "value": "",
+            "placeholder_zh": "如：135****1234",
+            "placeholder_en": "e.g. +86-135****",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "label_zh": "微信号",
+            "label_en": "Wechat",
+            "value": "",
+            "placeholder_zh": "微信号或上传二维码",
+            "placeholder_en": "WeChat ID or QR",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "label_zh": "邮箱",
+            "label_en": "E-mail",
+            "value": "",
+            "placeholder_zh": "如：sales@example.com",
+            "placeholder_en": "e.g. sales@example.com",
+            "images": [],
+            "image_captions": []
+        }
+    ],
+    "platforms": [
+        {
+            "key": 1688,
+            "label_zh": "1688",
+            "label_en": "1688",
+            "url": "",
+            "placeholder_zh": "店铺链接",
+            "placeholder_en": "Shop URL"
+        },
+        {
+            "key": "taobao",
+            "label_zh": "淘宝",
+            "label_en": "Taobao",
+            "url": "",
+            "placeholder_zh": "店铺链接",
+            "placeholder_en": "Shop URL"
+        },
+        {
+            "key": "douyin",
+            "label_zh": "抖音",
+            "label_en": "Douyin",
+            "url": "",
+            "placeholder_zh": "主页链接",
+            "placeholder_en": "Profile URL"
+        },
+        {
+            "key": "toutiao",
+            "label_zh": "今日头条",
+            "label_en": "Toutiao",
+            "url": "",
+            "placeholder_zh": "主页链接",
+            "placeholder_en": "Profile URL"
+        },
+        {
+            "key": "zhihu",
+            "label_zh": "知乎",
+            "label_en": "Zhihu",
+            "url": "",
+            "placeholder_zh": "主页链接",
+            "placeholder_en": "Profile URL"
+        },
+        {
+            "key": "baijiahao",
+            "label_zh": "百家号",
+            "label_en": "Baijiahao",
+            "url": "",
+            "placeholder_zh": "主页链接",
+            "placeholder_en": "Profile URL"
+        }
+    ],
+    "product_categories": [],
+    "products": [],
+    "faqs": [],
+    "cases": [],
+    "news": [],
+    "theme": {
+        "products_per_page": 24,
+        "articles_per_page": 24,
+        "products_per_row": 4,
+        "articles_per_row": 4,
+        "mobile_products_per_page": 12,
+        "mobile_articles_per_page": 12,
+        "mobile_products_per_row": 2,
+        "mobile_articles_per_row": 2,
+        "nav_font_size": 16,
+        "nav_gap": 16,
+        "submenu_width": 220,
+        "brand_color": "#4a5568",
+        "brand_bg": "#ffffff",
+        "logo_height": 56,
+        "footer_label": "Knowledge Base",
+        "custom_css": "",
+        "custom_html_head": "",
+        "custom_html_top": "",
+        "custom_html_before_footer": "",
+        "custom_html_body_end": "",
+        "custom_js": "",
+        "style": "business"
+    },
+    "advanced": {
+        "custom_domain": "",
+        "cross_lang_link": 1
+    },
+    "updated_at": "2026-10-31 10:56:17",
+    "_cross_lang": {
+        "enabled": true,
+        "alt_url": "https:\/\/zoneself.github.io\/zonself-cn\/",
+        "alt_lang": "zh",
+        "current_lang": "en"
+    },
+    "_repo_url": "https:\/\/github.com\/zoneself\/zonself-en"
+}
