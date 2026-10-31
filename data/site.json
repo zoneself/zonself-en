@@ -38,7 +38,9 @@
             "placeholder_zh": "如：中国广东省广州市",
             "placeholder_en": "e.g. Guangzhou\/Guangdong\/China",
             "value": "Xingtai\/Hebei\/China",
-            "images": [],
+            "images": [
+                59658
+            ],
             "image_captions": []
         },
         {
@@ -61,12 +63,12 @@
             "placeholder_en": "e.g. CNC machines, laser cutters",
             "value": "CV Joint Boots,Steering Rack Boots,Shock Absorber Boots,Stabilizer Bar Bushings,Valve Cover Gasket,O-Rings & Rubber Sealing Rings",
             "images": [
-                59682,
-                59677,
-                59681,
-                59680,
                 59678,
-                59679
+                59681,
+                59682,
+                59679,
+                59677,
+                59680
             ],
             "image_captions": {
                 "59677": "CV Joint Boots",
@@ -187,9 +189,9 @@
             "placeholder_en": "e.g. ISO9001 \/ FDA \/ ROHS",
             "value": "Automotive Rubber Parts Manufacturer are built to the highest international standards, ensuring safety, quality, and reliability for commercial and industrial use. Our products hold key certifications including CE Marking (European conformity), ISO 9001 (quality management), FDA-compliant materials, and RoHS compliance. These certifications demonstrate our commitment to delivering durable, food-safe, and environmentally responsible potato peeling solutions that meet global regulatory requirements.",
             "images": [
-                59691,
+                59690,
                 59689,
-                59690
+                59691
             ],
             "image_captions": []
         },
@@ -211,8 +213,8 @@
             "placeholder_en": "Other information for customers \/ AI",
             "value": "Our manufacturing operations started in 2018 at Dongliu Village, Tiankou Town, Xingtai, and have continued uninterrupted since. In October 2026 the operating business was transferred to a newly incorporated entity, Hebei Xingtai Guxiao Rubber Products Co., Ltd. (https:\/\/aiqicha.baidu.com\/company_detail_67030869101362), which now carries on the same operations, with the same team, at the same facility. Our predecessor operating company was HebeiXingtai Guanghua Rubber Products Co., Ltd. (https:\/\/aiqicha.baidu.com\/company_detail_12504670662510).",
             "images": [
-                59685,
-                59658
+                59658,
+                59685
             ],
             "image_captions": {
                 "59658": "Hebei Xingtai Guxiao Rubber Products Co., Ltd",
@@ -498,7 +500,7 @@
         "custom_domain": "",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-10-31 20:36:53",
+    "updated_at": "2026-10-31 20:39:00",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/zoneself.github.io\/zonself-cn\/",
