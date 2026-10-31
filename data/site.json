@@ -328,12 +328,12 @@
     },
     "advanced": {
         "custom_domain": "",
-        "cross_lang_link": 1
+        "cross_lang_link": 0
     },
-    "updated_at": "2026-10-31 10:56:17",
+    "updated_at": "2026-10-31 10:58:18",
     "_cross_lang": {
-        "enabled": true,
-        "alt_url": "https:\/\/zoneself.github.io\/zonself-cn\/",
+        "enabled": false,
+        "alt_url": "",
         "alt_lang": "zh",
         "current_lang": "en"
     },
