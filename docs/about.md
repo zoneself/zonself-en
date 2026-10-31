@@ -14,6 +14,8 @@ With in-depth experience in OEM & ODM custom rubber parts manufacturing , we pro
 
 Our products are widely used for oil leak prevention, dust protection, sealing performance enhancement, and NVH reduction , helping improve vehicle reliability and service life under harsh operating conditions.
 
+As a China-based source manufacturer, we operate our own production facility and supply automotive rubber parts directly to customers worldwide, without unnecessary middlemen or trading company markups. By working directly with our factory, importers, wholesalers, and distributors can benefit from competitive factory-direct pricing, efficient communication, flexible customization, and reliable production support. We are committed to providing cost-effective manufacturing solutions, helping our customers reduce sourcing costs, improve profit margins, and build long-term business partnerships.
+
 ## Company Video
 
 https://www.youtube.com/watch?v=h3KrbrLBZpg
