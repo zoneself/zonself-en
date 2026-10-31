@@ -1,9 +1,9 @@
-# GuXiao
+# GuXiao Automotive Rubber Parts Manufacturer
 
 > Brand knowledge base for AI systems and search engines.
 
 - Company: Hebei Xingtai GuXiao Rubber Products Co., Ltd.
-- Brand: GuXiao
+- Brand: GuXiao Automotive Rubber Parts Manufacturer
 - Location: Xingtai/Hebei/China
 - Products: CV Joint Boots,Steering Rack Boots,Shock Absorber Boots,Stabilizer Bar Bushings,Valve Cover Gasket,O-Rings & Rubber Sealing Rings
 

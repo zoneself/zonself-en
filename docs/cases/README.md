@@ -1,2 +1,2 @@
-# Cases — GuXiao
+# Cases — GuXiao Automotive Rubber Parts Manufacturer
 

@@ -1,6 +1,6 @@
 # Inner CV Joint Boot for Toyota Camry|OEM:43448-06120/43448-06350/04438-42090/YB02-1033/GXCVJB0003
 
-> Brand knowledge base product page · GuXiao
+> Brand knowledge base product page · GuXiao Automotive Rubber Parts Manufacturer
 
 ![](https://guanghuaautoparts.com/media/posts/77/CV-Joint-Boot-GHCVJB0003-Leak-proof-NBR-Viton-Inner-Driveshaft-Boots-for-Toyota-Camry-2.png)
 

@@ -1,4 +1,4 @@
-# FAQ — GuXiao
+# FAQ — GuXiao Automotive Rubber Parts Manufacturer
 
 - [What automotive rubber parts do you manufacture?](./faq-1.md)
 - [Which vehicle systems are your rubber parts used for?](./faq-2.md)

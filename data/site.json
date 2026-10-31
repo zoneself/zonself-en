@@ -49,7 +49,7 @@
             "label_en": "Brand Name",
             "placeholder_zh": "如：雄鹰\/Eagle（建议多介绍下品牌）",
             "placeholder_en": "e.g. Eagle（Introduce you brand more）",
-            "value": "GuXiao",
+            "value": "GuXiao Automotive Rubber Parts Manufacturer",
             "images": [
                 59748
             ],
@@ -500,7 +500,7 @@
         "custom_domain": "",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-10-31 20:46:33",
+    "updated_at": "2026-10-31 20:48:27",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/zoneself.github.io\/zonself-cn\/",

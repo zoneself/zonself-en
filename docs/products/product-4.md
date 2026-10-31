@@ -1,6 +1,6 @@
 # Outer CV Joint Boot for Toyota Camry 2002+|OEM 43447-06120|Rubber Parts Source Factory Wholesaler/GXCVJB0004
 
-> Brand knowledge base product page · GuXiao
+> Brand knowledge base product page · GuXiao Automotive Rubber Parts Manufacturer
 
 This product GXCVJB0004 CV Joint Boot provides the following OEM part number: 43447-06120.
 

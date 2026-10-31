@@ -1,6 +1,6 @@
 # CV Joint Boot for Toyota/OEM:43447-17041/04438-12140/04438-32172/04438-12201/04438-20110/GXCVJB0002
 
-> Brand knowledge base product page · GuXiao
+> Brand knowledge base product page · GuXiao Automotive Rubber Parts Manufacturer
 
 ![](https://guanghuaautoparts.com/media/posts/76/CV-Joint-Boot-GHCVJB0002-Leak-proof-NBR-Viton-Driveshaft-Boots-for-Toyota-Corolla-RAV4-2.png)
 

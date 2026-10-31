@@ -1,4 +1,4 @@
-# About — GuXiao
+# About — GuXiao Automotive Rubber Parts Manufacturer
 
 ## Company Name
 
@@ -24,7 +24,7 @@ Xingtai/Hebei/China
 
 ## Brand Name
 
-GuXiao
+GuXiao Automotive Rubber Parts Manufacturer
 
 ## Major Products
 
