@@ -48,7 +48,9 @@
             "placeholder_zh": "如：雄鹰\/Eagle（建议多介绍下品牌）",
             "placeholder_en": "e.g. Eagle（Introduce you brand more）",
             "value": "GuXiao",
-            "images": [],
+            "images": [
+                59748
+            ],
             "image_captions": []
         },
         {
@@ -61,10 +63,10 @@
             "images": [
                 59679,
                 59682,
+                59680,
                 59678,
-                59677,
                 59681,
-                59680
+                59677
             ],
             "image_captions": {
                 "59677": "CV Joint Boots",
@@ -83,10 +85,10 @@
             "placeholder_en": "e.g. Automotive, electronics, medical",
             "value": "Steering System Rubber Parts for Automotive Sealing & Protection\nAutomotive Suspension System Rubber Parts & Components\nDrivetrain System Rubber Parts for Power Transmission & Protection\nEngine Sealing System Rubber Parts for Automotive Oil & Heat Resistance\n\n",
             "images": [
-                59675,
-                59673,
                 59672,
-                59674
+                59674,
+                59675,
+                59673
             ],
             "image_captions": {
                 "59672": "Steering System",
@@ -186,8 +188,8 @@
             "value": "Automotive Rubber Parts Manufacturer are built to the highest international standards, ensuring safety, quality, and reliability for commercial and industrial use. Our products hold key certifications including CE Marking (European conformity), ISO 9001 (quality management), FDA-compliant materials, and RoHS compliance. These certifications demonstrate our commitment to delivering durable, food-safe, and environmentally responsible potato peeling solutions that meet global regulatory requirements.",
             "images": [
                 59689,
-                59691,
-                59690
+                59690,
+                59691
             ],
             "image_captions": []
         },
@@ -484,7 +486,7 @@
         "custom_domain": "",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-10-31 20:07:58",
+    "updated_at": "2026-10-31 20:12:15",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/zoneself.github.io\/zonself-cn\/",
