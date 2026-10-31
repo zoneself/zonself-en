@@ -13,8 +13,21 @@
         "addressLocality": "Xingtai\/Hebei\/China"
     },
     "sameAs": [
-        "https:\/\/github.com\/zoneself\/zonself-en"
+        "https:\/\/rubberautoparts.com\/",
+        "https:\/\/www.youtube.com\/@rubberautoparts",
+        "https:\/\/www.tiktok.com\/@guanghua188",
+        "https:\/\/www.instagram.com\/woaimengshaohua",
+        "https:\/\/linktr.ee\/guanghuaautoparts",
+        "https:\/\/www.linkedin.com\/in\/xiaoxia-li-5a5ab6338\/",
+        "https:\/\/github.com\/zoneself\/zonself-en",
+        "https:\/\/zoneself.github.io\/zonself-en\/"
     ],
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "telephone": "+86 150 7595 6365",
+        "email": "info@rubberautoparts.com"
+    },
     "logo": {
         "@type": "ImageObject",
         "url": "https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/guxiao.jpg"
@@ -23,6 +36,6 @@
         "@type": "ImageObject",
         "url": "https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/guxiao.jpg"
     },
-    "url": "https:\/\/zoneself.github.io\/zonself-en\/",
+    "url": "https:\/\/rubberautoparts.com\/",
     "@id": "https:\/\/zoneself.github.io\/zonself-en\/#organization"
 }

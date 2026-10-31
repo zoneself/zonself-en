@@ -17,6 +17,14 @@
 - https://zoneself.github.io/zonself-en/news.html
 - https://zoneself.github.io/zonself-en/contact.html
 
+## sameAs / official profiles
+- https://www.youtube.com/@rubberautoparts
+- https://www.tiktok.com/@guanghua188
+- https://www.instagram.com/woaimengshaohua
+- https://linktr.ee/guanghuaautoparts
+- https://www.linkedin.com/in/xiaoxia-li-5a5ab6338/
+- https://rubberautoparts.com/
+
 ## Source repository
 - https://github.com/zoneself/zonself-en
 

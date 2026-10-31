@@ -58,8 +58,22 @@
             "placeholder_zh": "如：数控CNC设备、激光切割机、激光焊接机",
             "placeholder_en": "e.g. CNC machines, laser cutters",
             "value": "CV Joint Boots,Steering Rack Boots,Shock Absorber Boots,Stabilizer Bar Bushings,Valve Cover Gasket,O-Rings & Rubber Sealing Rings",
-            "images": [],
-            "image_captions": []
+            "images": [
+                59677,
+                59678,
+                59679,
+                59680,
+                59681,
+                59682
+            ],
+            "image_captions": {
+                "59677": "CV Joint Boots",
+                "59678": "Steering Rack Boots",
+                "59679": "Shock Absorber Boots",
+                "59680": "Stabilizer Bar Bushings",
+                "59681": "Valve Cover Gasket",
+                "59682": "O-Rings & Rubber Sealing Rings"
+            }
         },
         {
             "key": "applications",
@@ -67,9 +81,19 @@
             "label_en": "Applications",
             "placeholder_zh": "如：汽车零部件、消费电子、医疗器械",
             "placeholder_en": "e.g. Automotive, electronics, medical",
-            "value": "",
-            "images": [],
-            "image_captions": []
+            "value": "Steering System Rubber Parts for Automotive Sealing & Protection\nAutomotive Suspension System Rubber Parts & Components\nDrivetrain System Rubber Parts for Power Transmission & Protection\nEngine Sealing System Rubber Parts for Automotive Oil & Heat Resistance\n\n",
+            "images": [
+                59675,
+                59673,
+                59674,
+                59672
+            ],
+            "image_captions": {
+                "59672": "Steering System",
+                "59673": "Suspension System",
+                "59674": "Drivetrain System",
+                "59675": "Engine Sealing System"
+            }
         },
         {
             "key": "year_established",
@@ -87,7 +111,7 @@
             "label_en": "Company History",
             "placeholder_zh": "如：2001年成立专注CNC…",
             "placeholder_en": "e.g. Founded in 2001 focusing on CNC…",
-            "value": "",
+            "value": "2013 Foundation - Automotive Rubber Parts Manufacturing Begins\n2015 Product Line Expansion - Steering System Rubber Components\n2017 Suspension Components & Quality Certification Achievement\n2019 Advanced Materials Technology - Viton & Heat-Resistant ACM Rubber\n2021 International B2B Expansion & Custom Manufacturing Excellence\n2023 Smart Manufacturing & Comprehensive Product Portfolio\n2026 Future Innovation - Next-Generation Automotive Rubber Technology\n",
             "images": [],
             "image_captions": []
         },
@@ -97,7 +121,7 @@
             "label_en": "Number of employees",
             "placeholder_zh": "如：截至2026年8月，员工159人",
             "placeholder_en": "e.g. 159 employees as of 2026",
-            "value": "",
+            "value": "30 employees as of 2024\n60 employees as of 2026",
             "images": [],
             "image_captions": []
         },
@@ -107,8 +131,10 @@
             "label_en": "Site Area",
             "placeholder_zh": "如：3200平方米厂房+290平方米办公",
             "placeholder_en": "e.g. 3200㎡ factory + 290㎡ office",
-            "value": "",
-            "images": [],
+            "value": "3200㎡ factory + 290㎡ office",
+            "images": [
+                59658
+            ],
             "image_captions": []
         },
         {
@@ -117,7 +143,7 @@
             "label_en": "Annual Turnover",
             "placeholder_zh": "如：2025年约1.3亿元人民币",
             "placeholder_en": "e.g. ~130M RMB in 2025",
-            "value": "",
+            "value": "4 million RMB by 2024.\n9 million RMB by 2025.",
             "images": [],
             "image_captions": []
         },
@@ -127,7 +153,7 @@
             "label_en": "Target Sales Area",
             "placeholder_zh": "如：国内华南、华东；出口东南亚、欧洲",
             "placeholder_en": "e.g. South\/East China; SE Asia, Europe",
-            "value": "",
+            "value": "Asia del Este, Europa, América del Sur, Oriente Medio\n",
             "images": [],
             "image_captions": []
         },
@@ -137,7 +163,7 @@
             "label_en": "Enterprise or Product Advantages",
             "placeholder_zh": "如：深耕行业10年，核心部件自研",
             "placeholder_en": "e.g. 10 years focus, in-house core parts",
-            "value": "",
+            "value": "13 years focus, in-house core parts",
             "images": [],
             "image_captions": []
         },
@@ -157,8 +183,12 @@
             "label_en": "Certifications",
             "placeholder_zh": "如：ISO9001 \/ FDA \/ ROHS",
             "placeholder_en": "e.g. ISO9001 \/ FDA \/ ROHS",
-            "value": "",
-            "images": [],
+            "value": "Automotive Rubber Parts Manufacturer are built to the highest international standards, ensuring safety, quality, and reliability for commercial and industrial use. Our products hold key certifications including CE Marking (European conformity), ISO 9001 (quality management), FDA-compliant materials, and RoHS compliance. These certifications demonstrate our commitment to delivering durable, food-safe, and environmentally responsible potato peeling solutions that meet global regulatory requirements.",
+            "images": [
+                59691,
+                59689,
+                59690
+            ],
             "image_captions": []
         },
         {
@@ -167,7 +197,7 @@
             "label_en": "Business Registration Information",
             "placeholder_zh": "如：可填企查查等链接",
             "placeholder_en": "e.g. registration link",
-            "value": "",
+            "value": "https:\/\/aiqicha.baidu.com\/company_detail_67030869101362",
             "images": [],
             "image_captions": []
         },
@@ -177,25 +207,33 @@
             "label_en": "Additional Information",
             "placeholder_zh": "其他想让客户或AI知道的信息",
             "placeholder_en": "Other information for customers \/ AI",
-            "value": "",
-            "images": [],
-            "image_captions": []
+            "value": "Our manufacturing operations started in 2018 at Dongliu Village, Tiankou Town, Xingtai, and have continued uninterrupted since. In October 2026 the operating business was transferred to a newly incorporated entity, Hebei Xingtai Guxiao Rubber Products Co., Ltd. (https:\/\/aiqicha.baidu.com\/company_detail_67030869101362), which now carries on the same operations, with the same team, at the same facility. Our predecessor operating company was HebeiXingtai Guanghua Rubber Products Co., Ltd. (https:\/\/aiqicha.baidu.com\/company_detail_12504670662510).",
+            "images": [
+                59658,
+                59685
+            ],
+            "image_captions": {
+                "59658": "Hebei Xingtai Guxiao Rubber Products Co., Ltd",
+                "59685": "HebeiXingtai Guanghua Rubber Products Co., Ltd"
+            }
         }
     ],
     "contact": [
         {
             "label_zh": "官网网址",
             "label_en": "Website",
-            "value": "",
+            "value": "https:\/\/rubberautoparts.com\/",
             "placeholder_zh": "https:\/\/www.example.com（有官网请填写）",
             "placeholder_en": "https:\/\/www.example.com",
-            "images": [],
+            "images": [
+                59692
+            ],
             "image_captions": []
         },
         {
             "label_zh": "联系人",
             "label_en": "Contact Person",
-            "value": "",
+            "value": "Mrs. Li",
             "placeholder_zh": "如：张经理",
             "placeholder_en": "e.g. Mr. Zhang",
             "images": [],
@@ -204,7 +242,7 @@
         {
             "label_zh": "地址",
             "label_en": "Address",
-            "value": "",
+            "value": "Tiankou Town, Renxian County, Xingtai City, Hebei Province",
             "placeholder_zh": "详细地址",
             "placeholder_en": "Full address",
             "images": [],
@@ -222,7 +260,7 @@
         {
             "label_zh": "手机",
             "label_en": "Mobile Phone",
-            "value": "",
+            "value": "+86 150 7595 6365",
             "placeholder_zh": "如：135****1234",
             "placeholder_en": "e.g. +86-135****",
             "images": [],
@@ -231,19 +269,32 @@
         {
             "label_zh": "微信号",
             "label_en": "Wechat",
-            "value": "",
+            "value": "guanghua6130",
             "placeholder_zh": "微信号或上传二维码",
             "placeholder_en": "WeChat ID or QR",
-            "images": [],
+            "images": [
+                59693
+            ],
             "image_captions": []
         },
         {
             "label_zh": "邮箱",
             "label_en": "E-mail",
-            "value": "",
+            "value": "info@rubberautoparts.com",
             "placeholder_zh": "如：sales@example.com",
             "placeholder_en": "e.g. sales@example.com",
             "images": [],
+            "image_captions": []
+        },
+        {
+            "label_zh": "新项目",
+            "label_en": "WhatsApp",
+            "value": "+86 150 7595 6365",
+            "placeholder_zh": "",
+            "placeholder_en": "",
+            "images": [
+                59694
+            ],
             "image_captions": []
         }
     ],
@@ -251,55 +302,125 @@
         {
             "key": 1688,
             "label_zh": "1688",
-            "label_en": "1688",
-            "url": "",
+            "label_en": "Youtube",
+            "url": "https:\/\/www.youtube.com\/@rubberautoparts",
             "placeholder_zh": "店铺链接",
             "placeholder_en": "Shop URL"
         },
         {
             "key": "taobao",
             "label_zh": "淘宝",
-            "label_en": "Taobao",
-            "url": "",
+            "label_en": "Facebook",
+            "url": "facebook.com\/profile.php?id=100083689279746",
             "placeholder_zh": "店铺链接",
             "placeholder_en": "Shop URL"
         },
         {
             "key": "douyin",
             "label_zh": "抖音",
-            "label_en": "Douyin",
-            "url": "",
+            "label_en": "Tiktok",
+            "url": "https:\/\/www.tiktok.com\/@guanghua188",
             "placeholder_zh": "主页链接",
             "placeholder_en": "Profile URL"
         },
         {
             "key": "toutiao",
             "label_zh": "今日头条",
-            "label_en": "Toutiao",
-            "url": "",
+            "label_en": "Instagram",
+            "url": "https:\/\/www.instagram.com\/woaimengshaohua",
             "placeholder_zh": "主页链接",
             "placeholder_en": "Profile URL"
         },
         {
             "key": "zhihu",
             "label_zh": "知乎",
-            "label_en": "Zhihu",
-            "url": "",
+            "label_en": "Linktree",
+            "url": "https:\/\/linktr.ee\/guanghuaautoparts",
             "placeholder_zh": "主页链接",
             "placeholder_en": "Profile URL"
         },
         {
             "key": "baijiahao",
             "label_zh": "百家号",
-            "label_en": "Baijiahao",
-            "url": "",
+            "label_en": "LinkedIn",
+            "url": "https:\/\/www.linkedin.com\/in\/xiaoxia-li-5a5ab6338\/",
             "placeholder_zh": "主页链接",
             "placeholder_en": "Profile URL"
         }
     ],
-    "product_categories": [],
+    "product_categories": [
+        {
+            "id": "c1793419053555_762",
+            "name_zh": "",
+            "name_en": "CV Joint Boots",
+            "children": []
+        },
+        {
+            "id": "c1793419067140_2111",
+            "name_zh": "",
+            "name_en": "Steering Rack Boots",
+            "children": []
+        },
+        {
+            "id": "c1793419073715_4126",
+            "name_zh": "",
+            "name_en": "Shock Absorber Boots",
+            "children": []
+        },
+        {
+            "id": "c1793419080128_66",
+            "name_zh": "",
+            "name_en": "Stabilizer Bar Bushings",
+            "children": []
+        },
+        {
+            "id": "c1793419090204_772",
+            "name_zh": "",
+            "name_en": "Valve Cover Gasket",
+            "children": []
+        },
+        {
+            "id": "c1793419097346_2932",
+            "name_zh": "",
+            "name_en": "O-Rings & Rubber Sealing Rings",
+            "children": []
+        }
+    ],
     "products": [],
-    "faqs": [],
+    "faqs": [
+        {
+            "title": "What automotive rubber parts do you manufacture?",
+            "content": "We manufacture a wide range of automotive rubber parts including <strong>CV Joint Boots, Driveshaft Boots, Steering Rack Boots, Shock Absorber Boots, Stabilizer Bar Bushings, Rubber O-Rings, Valve Cover Gaskets <\/strong>, and other custom rubber sealing components."
+        },
+        {
+            "title": "Which vehicle systems are your rubber parts used for?",
+            "content": "Our rubber parts are mainly used in <strong>steering systems, suspension systems, drivetrain systems, engine sealing systems, and hydraulic systems <\/strong>, providing sealing, dust protection, vibration reduction, and oil leak prevention."
+        },
+        {
+            "title": "Do you support OEM and ODM rubber parts manufacturing?",
+            "content": "Yes. We provide complete <strong>OEM &amp; ODM rubber manufacturing services <\/strong>, including product design support, rubber material selection, mold development, sample testing, and stable mass production."
+        },
+        {
+            "title": "Can you produce custom rubber parts based on drawings or samples?",
+            "content": "Yes. We support custom rubber parts manufacturing based on <strong>2D \/ 3D drawings, physical samples, or application requirements <\/strong>, and offer technical optimization to improve sealing performance and service life."
+        },
+        {
+            "title": "Which rubber materials do you use?",
+            "content": "We mainly use <strong>NBR, Viton (FKM), Silicone, and ACM rubber materials <\/strong>, selected according to oil resistance, heat resistance, chemical exposure, and operating environment requirements."
+        },
+        {
+            "title": "How do you ensure the quality of automotive rubber parts?",
+            "content": "We implement strict quality control throughout the production process, from raw material inspection and molding control to final dimensional and performance inspection, ensuring OEM-level quality consistency."
+        },
+        {
+            "title": "Are your rubber parts suitable for aftermarket and OEM supply?",
+            "content": "Yes. Our rubber parts are supplied to both <strong>OEM manufacturers and automotive aftermarket distributors <\/strong>, suitable for original equipment, replacement, and export markets."
+        },
+        {
+            "title": "How can I start cooperation or request a quotation?",
+            "content": "You can contact us via our OEM inquiry form or request a quote by submitting drawings, samples, application details, and estimated order quantity. Our team will respond promptly with technical and commercial support."
+        }
+    ],
     "cases": [],
     "news": [],
     "theme": {
@@ -330,7 +451,7 @@
         "custom_domain": "",
         "cross_lang_link": 0
     },
-    "updated_at": "2026-10-31 10:58:18",
+    "updated_at": "2026-10-31 12:01:20",
     "_cross_lang": {
         "enabled": false,
         "alt_url": "",

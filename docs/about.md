@@ -32,27 +32,58 @@ CV Joint Boots,Steering Rack Boots,Shock Absorber Boots,Stabilizer Bar Bushings,
 
 ## Applications
 
+Steering System Rubber Parts for Automotive Sealing & Protection
+Automotive Suspension System Rubber Parts & Components
+Drivetrain System Rubber Parts for Power Transmission & Protection
+Engine Sealing System Rubber Parts for Automotive Oil & Heat Resistance
+
 ## Year Established
 
 2013
 
 ## Company History
 
+2013 Foundation - Automotive Rubber Parts Manufacturing Begins
+2015 Product Line Expansion - Steering System Rubber Components
+2017 Suspension Components & Quality Certification Achievement
+2019 Advanced Materials Technology - Viton & Heat-Resistant ACM Rubber
+2021 International B2B Expansion & Custom Manufacturing Excellence
+2023 Smart Manufacturing & Comprehensive Product Portfolio
+2026 Future Innovation - Next-Generation Automotive Rubber Technology
+
 ## Number of employees
+
+30 employees as of 2024
+60 employees as of 2026
 
 ## Site Area
 
+3200㎡ factory + 290㎡ office
+
 ## Annual Turnover
+
+4 million RMB by 2024.
+9 million RMB by 2025.
 
 ## Target Sales Area
 
+Asia del Este, Europa, América del Sur, Oriente Medio
+
 ## Enterprise or Product Advantages
+
+13 years focus, in-house core parts
 
 ## Founder's Profile
 
 ## Certifications
 
+Automotive Rubber Parts Manufacturer are built to the highest international standards, ensuring safety, quality, and reliability for commercial and industrial use. Our products hold key certifications including CE Marking (European conformity), ISO 9001 (quality management), FDA-compliant materials, and RoHS compliance. These certifications demonstrate our commitment to delivering durable, food-safe, and environmentally responsible potato peeling solutions that meet global regulatory requirements.
+
 ## Business Registration Information
 
+https://aiqicha.baidu.com/company_detail_67030869101362
+
 ## Additional Information
+
+Our manufacturing operations started in 2018 at Dongliu Village, Tiankou Town, Xingtai, and have continued uninterrupted since. In October 2026 the operating business was transferred to a newly incorporated entity, Hebei Xingtai Guxiao Rubber Products Co., Ltd. (https://aiqicha.baidu.com/company_detail_67030869101362), which now carries on the same operations, with the same team, at the same facility. Our predecessor operating company was HebeiXingtai Guanghua Rubber Products Co., Ltd. (https://aiqicha.baidu.com/company_detail_12504670662510).
 

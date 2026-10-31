@@ -9,6 +9,7 @@ Official **brand knowledge base** (static site for GitHub Pages).
 - **Brand / 品牌**: GuXiao
 - **Location / 地区**: Xingtai/Hebei/China
 - **Products / 产品**: CV Joint Boots,Steering Rack Boots,Shock Absorber Boots,Stabilizer Bar Bushings,Valve Cover Gasket,O-Rings & Rubber Sealing Rings
+- **Highlights / 优势**: 13 years focus, in-house core parts
 
 ## Pages
 
@@ -22,6 +23,15 @@ Official **brand knowledge base** (static site for GitHub Pages).
 | Cases | [cases.html](https://zoneself.github.io/zonself-en/cases.html) |
 | News | [news.html](https://zoneself.github.io/zonself-en/news.html) |
 | Contact | [contact.html](https://zoneself.github.io/zonself-en/contact.html) |
+
+## Official profiles (sameAs)
+
+- https://www.youtube.com/@rubberautoparts
+- https://www.tiktok.com/@guanghua188
+- https://www.instagram.com/woaimengshaohua
+- https://linktr.ee/guanghuaautoparts
+- https://www.linkedin.com/in/xiaoxia-li-5a5ab6338/
+- https://rubberautoparts.com/
 
 ## Source repository
 
