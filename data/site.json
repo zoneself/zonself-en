@@ -492,13 +492,13 @@
         "custom_html_before_footer": "",
         "custom_html_body_end": "",
         "custom_js": "",
-        "style": "magazine"
+        "style": "business"
     },
     "advanced": {
         "custom_domain": "",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-10-31 20:34:47",
+    "updated_at": "2026-10-31 20:36:53",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/zoneself.github.io\/zonself-cn\/",
