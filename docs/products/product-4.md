@@ -7,15 +7,12 @@ This product GXCVJB0004 CV Joint Boot provides the following OEM part number: 43
 ![](https://guanghuaautoparts.com/media/posts/78/CV-Joint-Boot-GHCVJB0004-Leak-proof-NBR-Viton-Outer-Driveshaft-Boots-for-Toyota-Camry-2.png)
 
 Applicable vehicle models
-
 Toyota
 
 Compatibie Models
-
 Toyota – Camry [2002] = ACV30, ACV31, MCV30 – Drive Shaft Boot [Outer]
 
 OEM Code
-
 43447-06120
 
 This is a premium quality CV joint boot manufactured from high-grade rubber material. It delivers superior wear resistance, excellent anti-aging performance, and outstanding dust-proof and sealing capabilities. The tough and flexible design withstands the stress of high-speed rotation and angle changes while maintaining a tight seal, effectively preventing dust, mud, water, and contaminants from entering the CV joint assembly and stopping grease leakage or joint damage.
