@@ -32,10 +32,7 @@ CV Joint Boots,Steering Rack Boots,Shock Absorber Boots,Stabilizer Bar Bushings,
 
 ## Applications
 
-Steering System Rubber Parts for Automotive Sealing & Protection
-Automotive Suspension System Rubber Parts & Components
-Drivetrain System Rubber Parts for Power Transmission & Protection
-Engine Sealing System Rubber Parts for Automotive Oil & Heat Resistance
+Steering System,Automotive Suspension System,Drivetrain System,Engine Sealing System
 
 ## Year Established
 
@@ -66,8 +63,6 @@ Engine Sealing System Rubber Parts for Automotive Oil & Heat Resistance
 9 million RMB by 2025.
 
 ## Target Sales Area
-
-Our products are exported to aftermarket customers in more than 40 countries and regions, with key markets including:
 
 Middle East:​ UAE, Saudi Arabia, Qatar, Iraq, Jordan
 South America:​ Brazil, Chile, Peru, Colombia, Ecuador

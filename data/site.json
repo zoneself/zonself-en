@@ -85,7 +85,7 @@
             "label_en": "Applications",
             "placeholder_zh": "如：汽车零部件、消费电子、医疗器械",
             "placeholder_en": "e.g. Automotive, electronics, medical",
-            "value": "Steering System Rubber Parts for Automotive Sealing & Protection\nAutomotive Suspension System Rubber Parts & Components\nDrivetrain System Rubber Parts for Power Transmission & Protection\nEngine Sealing System Rubber Parts for Automotive Oil & Heat Resistance\n\n",
+            "value": "Steering System,Automotive Suspension System,Drivetrain System,Engine Sealing System ",
             "images": [
                 59674,
                 59675,
@@ -157,7 +157,7 @@
             "label_en": "Target Sales Area",
             "placeholder_zh": "如：国内华南、华东；出口东南亚、欧洲",
             "placeholder_en": "e.g. South\/East China; SE Asia, Europe",
-            "value": "Our products are exported to aftermarket customers in more than 40 countries and regions, with key markets including:\n\nMiddle East:​ UAE, Saudi Arabia, Qatar, Iraq, Jordan\nSouth America:​ Brazil, Chile, Peru, Colombia, Ecuador\nSoutheast Asia:​ Indonesia, Thailand, Vietnam, Philippines\nRussia & CIS:​ Russia, Kazakhstan, Uzbekistan\nAfrica:​ Nigeria, Kenya, Egypt, Morocco\nCentral America & Caribbean:​ Panama (Colón Free Zone), Dominican Republic, Costa Rica\n",
+            "value": "Middle East:​ UAE, Saudi Arabia, Qatar, Iraq, Jordan\nSouth America:​ Brazil, Chile, Peru, Colombia, Ecuador\nSoutheast Asia:​ Indonesia, Thailand, Vietnam, Philippines\nRussia & CIS:​ Russia, Kazakhstan, Uzbekistan\nAfrica:​ Nigeria, Kenya, Egypt, Morocco\nCentral America & Caribbean:​ Panama (Colón Free Zone), Dominican Republic, Costa Rica\n",
             "images": [],
             "image_captions": []
         },
@@ -500,7 +500,7 @@
         "custom_domain": "",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-10-31 20:39:00",
+    "updated_at": "2026-10-31 20:44:05",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/zoneself.github.io\/zonself-cn\/",
