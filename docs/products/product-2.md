@@ -1,4 +1,4 @@
-# CV Joint Boot for Toyota / OEM:43447-17041/04438-12140/04438-32172/04438-12201/04438-20110-GXCVJB0002
+# CV Joint Boot for Toyota/OEM:43447-17041/04438-12140/04438-32172/04438-12201/04438-20110/GXCVJB0002
 
 > Brand knowledge base product page · GuXiao
 
@@ -7,11 +7,9 @@
 This product GHCVJB0002 CV Joint Boot provides the following OEM part numbers: 43447-17041, 04438-12140, 04438-32172, 04438-12201, 04438-20110 .
 
 Applicable vehicle models
-
 Toyota
 
 Compatibie Models
-
 ToyotaRAV 4 I (SXA1_)
 ToyotaCOROLLA Compact (_E10_)
 ToyotaCOROLLA (_E9_)
@@ -19,23 +17,18 @@ ToyotaCOROLLA Liftback (_E10_)
 ToyotaCOROLLA Station Wagon (_E9_)
 
 OEM Code 1
-
 43447-17041
 
 OEM Code 2
-
 04438-12140
 
 OEM Code 3
-
 04438-32172
 
 OEM Code 4
-
 04438-12201
 
 OEM Code 5
-
 04438-20110
 
 This is a premium quality CV joint boot manufactured from high-grade rubber material. It delivers superior wear resistance, excellent anti-aging performance, and outstanding dust-proof and sealing capabilities. The tough and flexible design withstands extreme road conditions and high-speed rotation stress while maintaining a tight seal, effectively preventing dust, mud, water, and contaminants from entering the CV joint assembly and stopping grease leakage or joint damage.
