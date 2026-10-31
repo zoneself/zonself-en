@@ -486,7 +486,7 @@
         "submenu_width": 220,
         "brand_color": "#4a5568",
         "brand_bg": "#ffffff",
-        "logo_height": 56,
+        "logo_height": 80,
         "footer_label": "Knowledge Base",
         "custom_css": "",
         "custom_html_head": "",
@@ -500,7 +500,7 @@
         "custom_domain": "",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-10-31 20:44:05",
+    "updated_at": "2026-10-31 20:46:33",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/zoneself.github.io\/zonself-cn\/",
