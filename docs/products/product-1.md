@@ -1,6 +1,6 @@
 # CV Joint Boot for Toyota|OEM 43448-12040/04438-12410/04438-12161/FB2117/GXCVJB0001
 
-> Brand knowledge base product page · GuXiao Automotive Rubber Parts Manufacturer
+> Official website product page · GuXiao Automotive Rubber Parts Manufacturer
 
 This product GHCVJB0001 [CV Joint Boots ](https://guanghuaautoparts.com/tags/cv-joint-boots/)provides the following OEM part numbers: 43448-12040.
 
