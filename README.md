@@ -27,6 +27,7 @@ Official website (static site for GitHub Pages).
 ## Official profiles (sameAs)
 
 - https://www.youtube.com/@rubberautoparts
+- https://facebook.com/profile.php?id=100083689279746
 - https://www.tiktok.com/@guanghua188
 - https://www.instagram.com/woaimengshaohua
 - https://linktr.ee/guanghuaautoparts
